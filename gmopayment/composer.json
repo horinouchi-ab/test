@@ -1,0 +1,8 @@
+{
+    "name": "gmopayment/src",
+    "autoload": {
+        "psr-0": {
+            "gmopayment\\": "src/vendor/gmopayment/src/com/gmo_pg/client/"
+        }
+    }
+}
