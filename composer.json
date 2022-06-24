@@ -2,7 +2,7 @@
     "name": "horinouchi-ab/test",
     "autoload": {
         "psr-0": {
-            "gmopayment": "src/com/gmo_pg/client/"
+            "gmopayment": "gmopayment/src/com/gmo_pg/client/"
         }
     },
     "require": {
